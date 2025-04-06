@@ -2,7 +2,7 @@ import React from 'react'
 
 function homePage() {
   return (
-    <div>Dont't</div>
+    <div className=''>Dont't</div>
   )
 }
 
